@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Casino info">
+  <rect width="64" height="64" rx="12" fill="#2457d6"/>
+  <rect x="15" y="12" width="34" height="42" rx="4" fill="#ffffff"/>
+  <path d="M22 24h20M22 33h20M22 42h12" stroke="#2457d6" stroke-width="4" stroke-linecap="round"/>
+</svg>
